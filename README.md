@@ -19,7 +19,7 @@ Through visualization and analysis, I was able to identify patterns in audience 
 
 ---
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 - **Python**  
 - **Pandas** – for data cleaning and analysis  
 - **Seaborn** – for creating statistical plots  
